@@ -5,7 +5,7 @@ import numpy as np
 # initialize the client
 CLIENT = InferenceHTTPClient(
     api_url="https://detect.roboflow.com",
-    api_key="y2xAGvz4lAm2KwMMuWsR"
+    api_key=""
 )
 
 # Read the image
